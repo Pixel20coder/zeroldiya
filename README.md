@@ -1,0 +1,6 @@
+Hi, I’m Shivam Singh, currently a student at IIIT Sonepat with a passion for building innovative solutions. I’m currently focused on developing and exploring new things.......
+
+Skills
+Programming Languages: c, c++ (basics), html and python(basics)
+Tools & Platforms: Git, Docker, AWS, g4g...
+Feel free to check out my repositories and connect with me!
